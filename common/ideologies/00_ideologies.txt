@@ -39,17 +39,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 	
-	authoritarian_communism = {
+	authoritarian_socialism = {
 		types = {
-			authoritarian_communism_subtype = {} #generic
+			authoritarian_socialism_subtype = {} #generic
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_authoritarian_COMMUNISM_1"
-			"FACTION_NAME_authoritarian_COMMUNISM_2"
-			"FACTION_NAME_authoritarian_COMMUNISM_3"
-			"FACTION_NAME_authoritarian_COMMUNISM_4"
-			"FACTION_NAME_authoritarian_COMMUNISM_5"
-			"FACTION_NAME_authoritarian_COMMUNISM_6"
+			"FACTION_NAME_AUTHORITARIANISM_SOCIALISM_1"
+			"FACTION_NAME_AUTHORITARIANISM_SOCIALISM_2"
+			"FACTION_NAME_AUTHORITARIANISM_SOCIALISM_3"
+			"FACTION_NAME_AUTHORITARIANISM_SOCIALISM_4"
+			"FACTION_NAME_AUTHORITARIANISM_SOCIALISM_5"
+			"FACTION_NAME_AUTHORITARIANISM_SOCIALISM_6"
 		}
 		color = { 55 0 0 }
 		rules = {
@@ -137,17 +137,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 	
-	liberal_socialism = {
+	libertarian_socialism = {
 		types = {
-			liberal_socialism_subtype = {} #generic
+			libertarian_socialism_subtype = {} #generic
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_liberal_socialism_1"
-			"FACTION_NAME_liberal_socialism_2"
-			"FACTION_NAME_liberal_socialism_3"
-			"FACTION_NAME_liberal_socialism_4"
-			"FACTION_NAME_liberal_socialism_5"
-			"FACTION_NAME_liberal_socialism_6"
+			"FACTION_NAME_LIBERTARIAN_SOCIALISM_1"
+			"FACTION_NAME_LIBERTARIAN_SOCIALISM_2"
+			"FACTION_NAME_LIBERTARIAN_SOCIALISM_3"
+			"FACTION_NAME_LIBERTARIAN_SOCIALISM_4"
+			"FACTION_NAME_LIBERTARIAN_SOCIALISM_5"
+			"FACTION_NAME_LIBERTARIAN_SOCIALISM_6"
 		}
 		color = { 233 58 58 }
 		rules = {
@@ -204,17 +204,17 @@ ideologies = {
 		
 	}
 	
-	social_democrat = {
+	social_democracy = {
 		types = {
-			social_democrat_subtype = {}
+			social_democracy_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_2"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_3"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_4"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_5"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_6"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_1"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_2"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_3"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_4"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_5"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_6"
 		}
 		color = { 200 100 100 }
 		rules = {
@@ -237,17 +237,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 
-	social_liberal = {
+	social_liberalism = {
 		types = {
-			social_liberal_subtype = {}
+			social_liberalism_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_social_liberal_1"
-			"FACTION_NAME_social_liberal_2"
-			"FACTION_NAME_social_liberal_3"
-			"FACTION_NAME_social_liberal_4"
-			"FACTION_NAME_social_liberal_5"
-			"FACTION_NAME_social_liberal_6"
+			"FACTION_NAME_SOCIAL_LIBERALISM_1"
+			"FACTION_NAME_SOCIAL_LIBERALISM_2"
+			"FACTION_NAME_SOCIAL_LIBERALISM_3"
+			"FACTION_NAME_SOCIAL_LIBERALISM_4"
+			"FACTION_NAME_SOCIAL_LIBERALISM_5"
+			"FACTION_NAME_SOCIAL_LIBERALISM_6"
 		}
 		color = { 250 150 0 }
 		rules = {
@@ -270,17 +270,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 	
-	liberal_democrat = {
+	liberal_democracy = {
 		types = {
-			liberal_democrat_subtype = {}
+			liberal_democracy_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_LIBERAL_DEMOCRAT_1"
-			"FACTION_NAME_LIBERAL_DEMOCRAT_2"
-			"FACTION_NAME_LIBERAL_DEMOCRAT_3"
-			"FACTION_NAME_LIBERAL_DEMOCRAT_4"
-			"FACTION_NAME_LIBERAL_DEMOCRAT_5"
-			"FACTION_NAME_LIBERAL_DEMOCRAT_6"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_1"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_2"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_3"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_4"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_5"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_6"
 		}
 		color = { 100 100 222 }
 		rules = {
@@ -308,12 +308,12 @@ ideologies = {
 			conservatism_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_conservatism_1"
-			"FACTION_NAME_conservatism_2"
-			"FACTION_NAME_conservatism_3"
-			"FACTION_NAME_conservatism_4"
-			"FACTION_NAME_conservatism_5"
-			"FACTION_NAME_conservatism_6"
+			"FACTION_NAME_CONSERVATISM_1"
+			"FACTION_NAME_CONSERVATISM_2"
+			"FACTION_NAME_CONSERVATISM_3"
+			"FACTION_NAME_CONSERVATISM_4"
+			"FACTION_NAME_CONSERVATISM_5"
+			"FACTION_NAME_CONSERVATISM_6"
 		}
 		color = { 50 50 170 }
 		rules = {
@@ -336,17 +336,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 	
-	authoritarian = {
+	authoritarianism = {
 		types = {
-			authoritarian_subtype = {}
+			authoritarianism_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_AUTHORITARIAN_1"
-			"FACTION_NAME_AUTHORITARIAN_2"
-			"FACTION_NAME_AUTHORITARIAN_3"
-			"FACTION_NAME_AUTHORITARIAN_4"
-			"FACTION_NAME_AUTHORITARIAN_5"
-			"FACTION_NAME_AUTHORITARIAN_6"
+			"FACTION_NAME_AUTHORITARIANISM_1"
+			"FACTION_NAME_AUTHORITARIANISM_2"
+			"FACTION_NAME_AUTHORITARIANISM_3"
+			"FACTION_NAME_AUTHORITARIANISM_4"
+			"FACTION_NAME_AUTHORITARIANISM_5"
+			"FACTION_NAME_AUTHORITARIANISM_6"
 		}
 		color = { 75 75 110 }
 		rules = {
@@ -368,17 +368,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 	
-	nationalism = {
+	ultranationalism = {
 		types = {
-			nationalism_subtype = {}
+			ultranationalism_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_NATIONALISM_1"
-			"FACTION_NAME_NATIONALISM_2"
-			"FACTION_NAME_NATIONALISM_3"
-			"FACTION_NAME_NATIONALISM_4"
-			"FACTION_NAME_NATIONALISM_5"
-			"FACTION_NAME_NATIONALISM_6"
+			"FACTION_NAME_ULTRANATIONALISM_1"
+			"FACTION_NAME_ULTRANATIONALISM_2"
+			"FACTION_NAME_ULTRANATIONALISM_3"
+			"FACTION_NAME_ULTRANATIONALISM_4"
+			"FACTION_NAME_ULTRANATIONALISM_5"
+			"FACTION_NAME_ULTRANATIONALISM_6"
 		}
 		color = { 75 75 75 }
 		rules = {
@@ -401,17 +401,17 @@ ideologies = {
 		can_be_boosted = no
 	}
 	
-	corporatocrat = {
+	corporatocracy = {
 		types = {
-			corporatocrat_subtype = {}
+			corporatocracy_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_CORPORATOCRAT_1"
-			"FACTION_NAME_CORPORATOCRAT_2"
-			"FACTION_NAME_CORPORATOCRAT_3"
-			"FACTION_NAME_CORPORATOCRAT_4"
-			"FACTION_NAME_CORPORATOCRAT_5"
-			"FACTION_NAME_CORPORATOCRAT_6"
+			"FACTION_NAME_CORPORATOCRACY_1"
+			"FACTION_NAME_CORPORATOCRACY_2"
+			"FACTION_NAME_CORPORATOCRACY_3"
+			"FACTION_NAME_CORPORATOCRACY_4"
+			"FACTION_NAME_CORPORATOCRACY_5"
+			"FACTION_NAME_CORPORATOCRACY_6"
 		}
 		color = { 50 50 75 }
 		rules = {

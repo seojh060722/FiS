@@ -13,22 +13,42 @@
 	# Politics
 	#######################
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = authoritarianism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		fascist = 0
-		authoritarian = 10
-		democratic = 60
-		socialist = 25
-		communist = 5
+		jucheism = 0
+		authoritarian_socialism = 0
+		communism = 0
+		blackdancism = 0
+		libertarian_socialism = 0
+		anarchism = 0
+		social_democracy = 0
+		social_liberalism = 0
+		liberal_democracy = 0
+		conservatism = 0
+		authoritarianism = 100
+		ultranationalism = 0
+		corporatocracy = 0
+		fascism = 0
+		accelerationism = 0
+		burgundian_system = 0
 	}
 	#######################
 	# Leaders
 	#######################
-
+	create_country_leader = {
+		name = "Wendell Peterson"
+		desc = "POLITICS_WENDELL_PETERSON_DESC"
+		picture = "P_D_Jose_Estigarribia.tga"
+		expire = "1999.12.7"
+		ideology = authoritarianism
+		traits = {
+			
+		}
+	}
 	#######################
 	# Generals
 	#######################
